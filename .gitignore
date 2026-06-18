@@ -1,0 +1,15 @@
+# Ignore the massive dataset
+candidates.jsonl
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+venv310/
+
+# Ignore local output files (we only commit the code, not the local CSVs)
+output/
+sample_output.csv
+submission.csv

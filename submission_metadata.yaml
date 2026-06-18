@@ -1,0 +1,64 @@
+# Redrob Hackathon — Submission Metadata Template
+
+# ============================================================================
+# Team identity
+# ============================================================================
+team_name: "Redrob Ranker Team"
+
+primary_contact:
+  name: "Sree Ram Roshan A S"
+  email: "jackso1328@gmail.com"
+  phone: "+91-9360219148"
+
+
+# ============================================================================
+# Code and reproducibility
+# ============================================================================
+github_repo: "https://github.com/jackso1328/redrob-ranker"
+sandbox_link: "N/A - Designed to run locally on CPU via rank.py"
+
+reproduce_command: "python rank.py --candidates candidates.jsonl --out submission.csv"
+
+# ============================================================================
+# Compute environment
+# ============================================================================
+compute:
+  platform: "Windows Desktop"                    
+  cpu_cores: 8                                  
+  ram_gb: 16                                    
+  python_version: "3.10"                      
+  os: "Windows"                              
+  uses_gpu_for_inference: false                 
+  has_network_during_ranking: false             
+  pre_computation_required: false               
+  pre_computation_time_minutes: 0               
+
+# ============================================================================
+# AI tools declaration
+# ============================================================================
+ai_tools_used:
+  - "Antigravity (Gemini 3.1 Pro)"
+  - "Claude"
+
+ai_usage_summary: |
+  Used an AI agent to help build the python pipeline architecture, implement the deterministic filtering rules (The Bouncer), set up sentence-transformers for local CPU execution, and generate the glassmorphism frontend dashboard. No candidate data was uploaded or processed via external APIs during the actual execution.
+
+# ============================================================================
+# Approach summary
+# ============================================================================
+methodology_summary: |
+  A lightning-fast Funnel Architecture combining deterministic rules with lightweight NLP. 
+  1) The Bouncer: Drops ~89k irrelevant profiles via deterministic rules (penalizing non-engineers, honeypots, and IT-services lifers).
+  2) The AI Brain: Uses a fast, local 'sentence-transformers' model to semantically score the remaining candidates against the specific JD requirements (Information Retrieval, Vector Search, etc).
+  3) The Scorer: Applies heavy multiplier penalties to "LangChain Wrappers" and "Pure Researchers" while boosting profiles with ideal product company experience and good Redrob signals.
+  Total execution time for 100k candidates on CPU is ~5 minutes.
+
+# ============================================================================
+# Declarations
+# ============================================================================
+declarations:
+  read_submission_spec: true        
+  code_is_original_work: true       
+  no_collusion: true                
+  honeypot_check_done: true        
+  reproduction_tested: true         

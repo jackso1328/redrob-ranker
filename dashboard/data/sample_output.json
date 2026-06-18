@@ -1,0 +1,610 @@
+{
+  "metadata": {
+    "total_candidates_processed": 100000,
+    "viable_candidates": 100,
+    "top_100_saved": 100,
+    "runtime_seconds": 120
+  },
+  "candidates": [
+    {
+      "candidate_id": "CAND_0053527",
+      "rank": 1,
+      "score": 0.8292,
+      "reasoning": "Strong depth in Qdrant, CNN combined with 7.0 years as Junior ML Engineer at PhonePe. experience at PhonePe. Behavioral signal is solid (81% response rate, 90 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0048558",
+      "rank": 2,
+      "score": 0.7547,
+      "reasoning": "Strong depth in Qdrant, OpenSearch combined with 6.7 years as Data Scientist at Rephrase.ai. experience at Rephrase.ai. Behavioral signal is solid (80% response rate, 30 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0096104",
+      "rank": 3,
+      "score": 0.7366,
+      "reasoning": "Strong depth in Data Science, Hugging Face Transformers combined with 7.0 years as AI Specialist at Yellow.ai. experience at Yellow.ai. Behavioral signal is solid (33% response rate, 30 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0001086",
+      "rank": 4,
+      "score": 0.6771,
+      "reasoning": "Strong depth in YOLO, Qdrant combined with 8.0 years as Senior Software Engineer at Dunder Mifflin. experience at Swiggy. Behavioral signal is solid (30% response rate, 30 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0017859",
+      "rank": 5,
+      "score": 0.6137,
+      "reasoning": "Strong depth in Statistical Modeling, Computer Vision combined with 6.5 years as Software Engineer at Flipkart. experience at Flipkart. Behavioral signal is solid (49% response rate, 120 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0001734",
+      "rank": 6,
+      "score": 0.6133,
+      "reasoning": "Strong depth in Weaviate, OpenSearch combined with 7.9 years as Data Analyst at Tech Mahindra. experience at Zomato. Behavioral signal is solid (78% response rate, 60 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0033350",
+      "rank": 7,
+      "score": 0.6033,
+      "reasoning": "Strong depth in BM25, Kubeflow combined with 6.2 years as Data Scientist at upGrad. experience at Paytm. Behavioral signal is solid (85% response rate, 90 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0081480",
+      "rank": 8,
+      "score": 0.5992,
+      "reasoning": "Strong depth in FAISS, Vector Search combined with 5.6 years as Computer Vision Engineer at Sarvam AI. experience at Sarvam AI. Behavioral signal is solid (85% response rate, 60 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0042620",
+      "rank": 9,
+      "score": 0.5936,
+      "reasoning": "Strong depth in MLOps, Pinecone combined with 7.5 years as Software Engineer at Acme Corp. experience at PhonePe. Behavioral signal is solid (74% response rate, 90 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0064116",
+      "rank": 10,
+      "score": 0.5892,
+      "reasoning": "Strong depth in LoRA, Agile combined with 6.1 years as Senior Software Engineer at Flipkart. experience at Flipkart. Behavioral signal is solid (68% response rate, 30 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0069113",
+      "rank": 11,
+      "score": 0.5841,
+      "reasoning": "Strong depth in Image Classification, MLflow combined with 7.6 years as Analytics Engineer at Paytm. experience at Paytm. Behavioral signal is solid (78% response rate, 60 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0025197",
+      "rank": 12,
+      "score": 0.5803,
+      "reasoning": "Strong depth in Learning to Rank, Project Management combined with 7.3 years as Analytics Engineer at Freshworks. experience at Zomato. Behavioral signal is solid (64% response rate, 90 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0053300",
+      "rank": 13,
+      "score": 0.5776,
+      "reasoning": "Strong depth in OpenSearch, Forecasting combined with 7.4 years as Data Analyst at Dream11. general industry experience. Behavioral signal is solid (48% response rate, 30 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0002295",
+      "rank": 14,
+      "score": 0.5751,
+      "reasoning": "Strong depth in Milvus, Statistical Modeling combined with 6.1 years as Senior Software Engineer at Paytm. experience at Paytm. Behavioral signal is solid (28% response rate, 60 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0002665",
+      "rank": 15,
+      "score": 0.5741,
+      "reasoning": "Strong depth in QLoRA, Python combined with 6.5 years as Software Engineer at InMobi. experience at Swiggy. Behavioral signal is solid (70% response rate, 90 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0008486",
+      "rank": 16,
+      "score": 0.5738,
+      "reasoning": "Strong depth in OpenCV, MLflow combined with 7.9 years as Software Engineer at PharmEasy. experience at Zomato. Behavioral signal is solid (59% response rate, 60 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0055271",
+      "rank": 17,
+      "score": 0.5735,
+      "reasoning": "Strong depth in GANs, Go combined with 7.2 years as Data Engineer at CRED. experience at CRED. Behavioral signal is solid (52% response rate, 60 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0053422",
+      "rank": 18,
+      "score": 0.5714,
+      "reasoning": "Strong depth in Qdrant, RAG combined with 6.8 years as Data Scientist at Aganitha. experience at Aganitha. Behavioral signal is solid (41% response rate, 45 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0030049",
+      "rank": 19,
+      "score": 0.5671,
+      "reasoning": "Strong depth in Statistical Modeling, Machine Learning combined with 7.0 years as Data Analyst at CRED. experience at CRED. Behavioral signal is solid (52% response rate, 90 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0052496",
+      "rank": 20,
+      "score": 0.5645,
+      "reasoning": "Strong depth in Reinforcement Learning, Data Science combined with 7.4 years as Analytics Engineer at Zomato. experience at Zomato. Behavioral signal is solid (38% response rate, 60 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0024123",
+      "rank": 21,
+      "score": 0.5624,
+      "reasoning": "Strong depth in OpenCV, TensorFlow combined with 6.6 years as Backend Engineer at Vedantu. experience at Ola. Behavioral signal is solid (70% response rate, 60 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0076784",
+      "rank": 22,
+      "score": 0.555,
+      "reasoning": "Strong depth in YOLO, TensorFlow combined with 6.5 years as Software Engineer at PolicyBazaar. experience at Meesho. Behavioral signal is solid (70% response rate, 90 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0088625",
+      "rank": 23,
+      "score": 0.5537,
+      "reasoning": "Strong depth in Pinecone, Time Series combined with 7.9 years as Backend Engineer at BYJU'S. experience at Paytm. Behavioral signal is solid (80% response rate, 60 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0077502",
+      "rank": 24,
+      "score": 0.5518,
+      "reasoning": "Strong depth in QLoRA, Information Retrieval combined with 7.5 years as Software Engineer at Infosys. experience at CRED. Behavioral signal is solid (49% response rate, 120 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0037534",
+      "rank": 25,
+      "score": 0.5503,
+      "reasoning": "Strong depth in QLoRA, Diffusion Models combined with 7.5 years as Senior Data Engineer at PhonePe. experience at PhonePe. Behavioral signal is solid (53% response rate, 120 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0047272",
+      "rank": 26,
+      "score": 0.5496,
+      "reasoning": "Strong depth in Diffusion Models, Kubeflow combined with 6.3 years as Senior Data Engineer at PolicyBazaar. experience at Swiggy. Behavioral signal is solid (26% response rate, 60 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0075215",
+      "rank": 27,
+      "score": 0.5477,
+      "reasoning": "Strong depth in Time Series, Speech Recognition combined with 7.8 years as Data Analyst at Hooli. experience at Hooli. Behavioral signal is solid (75% response rate, 120 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0067535",
+      "rank": 28,
+      "score": 0.539,
+      "reasoning": "Strong depth in Speech Recognition, Reinforcement Learning combined with 6.8 years as Junior ML Engineer at Locobuzz. experience at Locobuzz. Behavioral signal is solid (81% response rate, 45 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0020669",
+      "rank": 29,
+      "score": 0.5374,
+      "reasoning": "Strong depth in LoRA, Embeddings combined with 6.1 years as Senior Data Engineer at PhonePe. experience at PhonePe. Behavioral signal is solid (21% response rate, 60 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0045420",
+      "rank": 30,
+      "score": 0.5349,
+      "reasoning": "Strong depth in PEFT, Computer Vision combined with 5.8 years as Data Engineer at Zoho. experience at Flipkart. Behavioral signal is solid (82% response rate, 120 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0079228",
+      "rank": 31,
+      "score": 0.5336,
+      "reasoning": "Strong depth in PEFT, Time Series combined with 5.8 years as Senior Software Engineer at Swiggy. experience at Swiggy. Behavioral signal is solid (58% response rate, 60 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0051841",
+      "rank": 32,
+      "score": 0.5333,
+      "reasoning": "Strong depth in MLOps, BentoML combined with 5.7 years as Senior Software Engineer at BYJU'S. general industry experience. Behavioral signal is solid (45% response rate, 60 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0008677",
+      "rank": 33,
+      "score": 0.5308,
+      "reasoning": "Strong depth in Information Retrieval, Python combined with 5.8 years as Senior Software Engineer at PolicyBazaar. experience at Paytm. Behavioral signal is solid (76% response rate, 120 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0009162",
+      "rank": 34,
+      "score": 0.525,
+      "reasoning": "Strong depth in scikit-learn, Machine Learning combined with 6.5 years as Analytics Engineer at Meesho. experience at Meesho. Behavioral signal is solid (56% response rate, 90 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0099108",
+      "rank": 35,
+      "score": 0.5231,
+      "reasoning": "Strong depth in pgvector, Image Classification combined with 7.3 years as Software Engineer at Dream11. general industry experience. Behavioral signal is solid (56% response rate, 90 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0057209",
+      "rank": 36,
+      "score": 0.5225,
+      "reasoning": "Strong depth in Time Series, Embeddings combined with 6.2 years as Backend Engineer at Cognizant. experience at Ola. Behavioral signal is solid (79% response rate, 90 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0044248",
+      "rank": 37,
+      "score": 0.5219,
+      "reasoning": "Strong depth in Sentence Transformers, Weights & Biases combined with 6.9 years as Junior ML Engineer at upGrad. general industry experience. Behavioral signal is solid (77% response rate, 120 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0038639",
+      "rank": 38,
+      "score": 0.5193,
+      "reasoning": "Strong depth in Weaviate, scikit-learn combined with 7.5 years as Data Analyst at Dunder Mifflin. experience at PhonePe. Behavioral signal is solid (42% response rate, 120 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0028729",
+      "rank": 39,
+      "score": 0.5182,
+      "reasoning": "Strong depth in MLflow, MLOps combined with 7.8 years as Data Analyst at BYJU'S. general industry experience. Behavioral signal is solid (44% response rate, 90 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0080124",
+      "rank": 40,
+      "score": 0.5176,
+      "reasoning": "Strong depth in Feature Engineering, QLoRA combined with 6.6 years as Data Analyst at Capgemini. general industry experience. Behavioral signal is solid (72% response rate, 30 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0008383",
+      "rank": 41,
+      "score": 0.5151,
+      "reasoning": "Strong depth in Kubeflow, Data Science combined with 7.4 years as Analytics Engineer at Hooli. experience at Hooli. Behavioral signal is solid (34% response rate, 120 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0077536",
+      "rank": 42,
+      "score": 0.5151,
+      "reasoning": "Strong depth in Time Series, Embeddings combined with 7.2 years as Data Analyst at BYJU'S. general industry experience. Behavioral signal is solid (67% response rate, 90 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0007675",
+      "rank": 43,
+      "score": 0.5145,
+      "reasoning": "Strong depth in Time Series, Weaviate combined with 7.1 years as Senior Data Engineer at Initech. experience at Initech. Behavioral signal is solid (52% response rate, 120 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0087899",
+      "rank": 44,
+      "score": 0.5132,
+      "reasoning": "Strong depth in YOLO, Vector Search combined with 5.6 years as Senior Data Engineer at Wipro. experience at Paytm. Behavioral signal is solid (78% response rate, 120 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0051136",
+      "rank": 45,
+      "score": 0.5074,
+      "reasoning": "Strong depth in Feature Engineering, RAG combined with 5.4 years as Software Engineer at Infosys. experience at PhonePe. Behavioral signal is solid (41% response rate, 90 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0082440",
+      "rank": 46,
+      "score": 0.5063,
+      "reasoning": "Strong depth in Time Series, Diffusion Models combined with 7.3 years as Senior Data Engineer at PhonePe. experience at PhonePe. Behavioral signal is solid (80% response rate, 120 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0032737",
+      "rank": 47,
+      "score": 0.5056,
+      "reasoning": "Strong depth in Kubeflow, Information Retrieval combined with 7.5 years as Backend Engineer at Stark Industries. experience at CRED. Behavioral signal is solid (79% response rate, 90 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0071907",
+      "rank": 48,
+      "score": 0.5032,
+      "reasoning": "Strong depth in Data Science, Milvus combined with 5.4 years as Senior Software Engineer at Unacademy. experience at Flipkart. Behavioral signal is solid (26% response rate, 90 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0068910",
+      "rank": 49,
+      "score": 0.5014,
+      "reasoning": "Strong depth in CNN, Django combined with 5.7 years as Senior Software Engineer at Ola. experience at Ola. Behavioral signal is solid (81% response rate, 60 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0040874",
+      "rank": 50,
+      "score": 0.4981,
+      "reasoning": "Strong depth in BentoML, ASR combined with 5.3 years as Analytics Engineer at Zomato. experience at Zomato. Behavioral signal is solid (36% response rate, 120 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0036417",
+      "rank": 51,
+      "score": 0.4959,
+      "reasoning": "Strong depth in TensorFlow, Reinforcement Learning combined with 4.9 years as Backend Engineer at PhonePe. experience at PhonePe. Behavioral signal is solid (39% response rate, 90 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0010875",
+      "rank": 52,
+      "score": 0.4958,
+      "reasoning": "Strong depth in GANs, MLflow combined with 6.3 years as Data Engineer at Stark Industries. experience at Razorpay. Behavioral signal is solid (20% response rate, 60 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0031153",
+      "rank": 53,
+      "score": 0.4957,
+      "reasoning": "Strong depth in Reinforcement Learning, Data Science combined with 7.2 years as Senior Software Engineer at Initech. experience at Initech. Behavioral signal is solid (75% response rate, 90 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0025254",
+      "rank": 54,
+      "score": 0.4939,
+      "reasoning": "Strong depth in Feature Engineering, MLflow combined with 5.9 years as Data Engineer at Meesho. experience at Meesho. Behavioral signal is solid (44% response rate, 120 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0074835",
+      "rank": 55,
+      "score": 0.4931,
+      "reasoning": "Strong depth in Information Retrieval, OpenCV combined with 5.6 years as Data Analyst at Stark Industries. general industry experience. Behavioral signal is solid (54% response rate, 120 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0040750",
+      "rank": 56,
+      "score": 0.4928,
+      "reasoning": "Strong depth in Python, MLOps combined with 6.2 years as Data Analyst at Freshworks. general industry experience. Behavioral signal is solid (69% response rate, 90 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0051944",
+      "rank": 57,
+      "score": 0.4919,
+      "reasoning": "Strong depth in Kubeflow, Statistical Modeling combined with 6.4 years as Software Engineer at Capgemini. experience at Paytm. Behavioral signal is solid (73% response rate, 60 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0064030",
+      "rank": 58,
+      "score": 0.491,
+      "reasoning": "Strong depth in Speech Recognition, PEFT combined with 7.8 years as Analytics Engineer at BYJU'S. general industry experience. Behavioral signal is solid (45% response rate, 90 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0023366",
+      "rank": 59,
+      "score": 0.4905,
+      "reasoning": "Strong depth in ASR, Vector Search combined with 7.9 years as Data Engineer at Initech. experience at Initech. Behavioral signal is solid (69% response rate, 120 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0004579",
+      "rank": 60,
+      "score": 0.489,
+      "reasoning": "Strong depth in Image Classification, Data Science combined with 7.7 years as Software Engineer at Flipkart. experience at Flipkart. Behavioral signal is solid (74% response rate, 90 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0022691",
+      "rank": 61,
+      "score": 0.4889,
+      "reasoning": "Strong depth in QLoRA, TensorFlow combined with 6.9 years as Backend Engineer at Acme Corp. experience at Razorpay. Behavioral signal is solid (22% response rate, 30 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0022819",
+      "rank": 62,
+      "score": 0.4864,
+      "reasoning": "Strong depth in Object Detection, PyTorch combined with 7.7 years as Data Analyst at BYJU'S. general industry experience. Behavioral signal is solid (82% response rate, 120 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0085649",
+      "rank": 63,
+      "score": 0.4862,
+      "reasoning": "Strong depth in Feature Engineering, FAISS combined with 6.8 years as Data Engineer at Mindtree. experience at PhonePe. Behavioral signal is solid (40% response rate, 120 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0011489",
+      "rank": 64,
+      "score": 0.4839,
+      "reasoning": "Strong depth in pgvector, Python combined with 5.8 years as ML Engineer at Glance. experience at Glance. Behavioral signal is solid (47% response rate, 60 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0032973",
+      "rank": 65,
+      "score": 0.4825,
+      "reasoning": "Strong depth in Kubeflow, Six Sigma combined with 7.2 years as Analytics Engineer at Acme Corp. general industry experience. Behavioral signal is solid (70% response rate, 60 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0073138",
+      "rank": 66,
+      "score": 0.4814,
+      "reasoning": "Strong depth in Vector Search, YOLO combined with 8.0 years as Backend Engineer at Mindtree. experience at Swiggy. Behavioral signal is solid (78% response rate, 60 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0016782",
+      "rank": 67,
+      "score": 0.4793,
+      "reasoning": "Strong depth in Computer Vision, pgvector combined with 7.5 years as Data Engineer at Ola. experience at Ola. Behavioral signal is solid (77% response rate, 120 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0099998",
+      "rank": 68,
+      "score": 0.4762,
+      "reasoning": "Strong depth in BentoML, Feature Engineering combined with 7.3 years as Analytics Engineer at InMobi. experience at Ola. Behavioral signal is solid (33% response rate, 90 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0082921",
+      "rank": 69,
+      "score": 0.4757,
+      "reasoning": "Strong depth in FAISS, Deep Learning combined with 7.9 years as Analytics Engineer at Stark Industries. experience at Ola. Behavioral signal is solid (29% response rate, 90 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0076778",
+      "rank": 70,
+      "score": 0.4753,
+      "reasoning": "Strong depth in MLflow, Project Management combined with 7.3 years as Software Engineer at Globex Inc. experience at Meesho. Behavioral signal is solid (77% response rate, 30 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0063589",
+      "rank": 71,
+      "score": 0.4744,
+      "reasoning": "Strong depth in Forecasting, Weights & Biases combined with 6.2 years as Data Analyst at Dream11. general industry experience. Behavioral signal is solid (78% response rate, 30 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0043601",
+      "rank": 72,
+      "score": 0.4734,
+      "reasoning": "Strong depth in Weights & Biases, Feature Engineering combined with 7.9 years as Data Analyst at Razorpay. experience at Razorpay. Behavioral signal is solid (49% response rate, 120 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0040217",
+      "rank": 73,
+      "score": 0.4718,
+      "reasoning": "Strong depth in Docker, scikit-learn combined with 7.5 years as Frontend Engineer at Swiggy. experience at Swiggy. Behavioral signal is solid (61% response rate, 90 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0039009",
+      "rank": 74,
+      "score": 0.4709,
+      "reasoning": "Strong depth in MLOps, Forecasting combined with 7.1 years as Data Analyst at Capgemini. experience at Razorpay. Behavioral signal is solid (77% response rate, 90 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0043694",
+      "rank": 75,
+      "score": 0.4705,
+      "reasoning": "Strong depth in Kubeflow, Project Management combined with 7.5 years as Data Analyst at Cognizant. experience at Razorpay. Behavioral signal is solid (80% response rate, 90 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0079838",
+      "rank": 76,
+      "score": 0.4691,
+      "reasoning": "Strong depth in MLflow, Feature Engineering combined with 7.6 years as Senior Data Engineer at Nykaa. experience at Nykaa. Behavioral signal is solid (44% response rate, 60 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0080622",
+      "rank": 77,
+      "score": 0.4679,
+      "reasoning": "Strong depth in CNN, Hugging Face Transformers combined with 6.9 years as Backend Engineer at upGrad. experience at CRED. Behavioral signal is solid (36% response rate, 90 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0099026",
+      "rank": 78,
+      "score": 0.4679,
+      "reasoning": "Strong depth in BM25, MLOps combined with 6.7 years as Analytics Engineer at Swiggy. experience at Swiggy. Behavioral signal is solid (60% response rate, 90 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0093716",
+      "rank": 79,
+      "score": 0.4678,
+      "reasoning": "Strong depth in Statistical Modeling, Qdrant combined with 7.8 years as Analytics Engineer at Zoho. experience at Swiggy. Behavioral signal is solid (47% response rate, 90 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0076857",
+      "rank": 80,
+      "score": 0.4676,
+      "reasoning": "Strong depth in Speech Recognition, Statistical Modeling combined with 4.9 years as Data Engineer at Paytm. experience at Paytm. Behavioral signal is solid (53% response rate, 60 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0039522",
+      "rank": 81,
+      "score": 0.4675,
+      "reasoning": "Strong depth in OpenCV, AWS combined with 6.9 years as Senior Data Engineer at Ola. experience at Ola. Behavioral signal is solid (69% response rate, 60 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0064123",
+      "rank": 82,
+      "score": 0.4672,
+      "reasoning": "Strong depth in BigQuery, OpenSearch combined with 5.4 years as Data Engineer at Meesho. experience at Meesho. Behavioral signal is solid (75% response rate, 60 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0008191",
+      "rank": 83,
+      "score": 0.4671,
+      "reasoning": "Strong depth in GANs, OpenCV combined with 8.0 years as Senior Data Engineer at PharmEasy. experience at Paytm. Behavioral signal is solid (72% response rate, 30 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0093945",
+      "rank": 84,
+      "score": 0.4659,
+      "reasoning": "Strong depth in Learning to Rank, Statistical Modeling combined with 6.6 years as Senior Data Engineer at Nykaa. experience at Nykaa. Behavioral signal is solid (45% response rate, 90 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0040324",
+      "rank": 85,
+      "score": 0.4654,
+      "reasoning": "Strong depth in Forecasting, Computer Vision combined with 5.0 years as Senior Data Engineer at Zoho. experience at Ola. Behavioral signal is solid (21% response rate, 90 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0045373",
+      "rank": 86,
+      "score": 0.4642,
+      "reasoning": "Strong depth in ASR, Data Science combined with 7.3 years as Data Analyst at Globex Inc. experience at Nykaa. Behavioral signal is solid (69% response rate, 60 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0032584",
+      "rank": 87,
+      "score": 0.4641,
+      "reasoning": "Strong depth in Sales, Semantic Search combined with 7.8 years as Senior Data Engineer at PharmEasy. experience at Zomato. Behavioral signal is solid (64% response rate, 30 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0002548",
+      "rank": 88,
+      "score": 0.464,
+      "reasoning": "Strong depth in Elasticsearch, Deep Learning combined with 7.0 years as Analytics Engineer at upGrad. experience at Zomato. Behavioral signal is solid (49% response rate, 90 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0073431",
+      "rank": 89,
+      "score": 0.4605,
+      "reasoning": "Strong depth in Vector Search, Object Detection combined with 6.9 years as Backend Engineer at Zoho. experience at Meesho. Behavioral signal is solid (33% response rate, 120 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0076991",
+      "rank": 90,
+      "score": 0.4585,
+      "reasoning": "Strong depth in Rust, GANs combined with 6.4 years as Analytics Engineer at Freshworks. experience at PhonePe. Behavioral signal is solid (72% response rate, 60 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0026006",
+      "rank": 91,
+      "score": 0.4584,
+      "reasoning": "Strong depth in BentoML, CI/CD combined with 6.2 years as Data Analyst at Razorpay. experience at Razorpay. Behavioral signal is solid (21% response rate, 30 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0080911",
+      "rank": 92,
+      "score": 0.4573,
+      "reasoning": "Strong depth in CNN, MLflow combined with 6.8 years as Data Engineer at Nykaa. experience at Nykaa. Behavioral signal is solid (65% response rate, 90 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0008933",
+      "rank": 93,
+      "score": 0.4562,
+      "reasoning": "Strong depth in Semantic Search, Diffusion Models combined with 6.1 years as Analytics Engineer at BYJU'S. general industry experience. Behavioral signal is solid (64% response rate, 90 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0051619",
+      "rank": 94,
+      "score": 0.4532,
+      "reasoning": "Strong depth in Illustrator, MLOps combined with 5.6 years as Data Engineer at Flipkart. experience at Flipkart. Behavioral signal is solid (82% response rate, 60 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0014894",
+      "rank": 95,
+      "score": 0.4531,
+      "reasoning": "Strong depth in GANs, YOLO combined with 7.3 years as Senior Software Engineer at BYJU'S. general industry experience. Behavioral signal is solid (62% response rate, 90 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0025171",
+      "rank": 96,
+      "score": 0.4525,
+      "reasoning": "Strong depth in MLOps, CNN combined with 6.8 years as Analytics Engineer at BYJU'S. experience at Ola. Behavioral signal is solid (51% response rate, 90 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0042061",
+      "rank": 97,
+      "score": 0.452,
+      "reasoning": "Strong depth in Learning to Rank, YOLO combined with 5.6 years as Backend Engineer at PolicyBazaar. experience at Flipkart. Behavioral signal is solid (27% response rate, 60 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0089181",
+      "rank": 98,
+      "score": 0.452,
+      "reasoning": "Strong depth in CNN, Computer Vision combined with 7.7 years as Data Analyst at Accenture. experience at Zomato. Behavioral signal is solid (80% response rate, 30 days notice). Note: Profile shows heavy Computer Vision/Speech focus which may lack required NLP/IR depth."
+    },
+    {
+      "candidate_id": "CAND_0051240",
+      "rank": 99,
+      "score": 0.4512,
+      "reasoning": "Strong depth in Feature Engineering, Apache Flink combined with 5.4 years as Senior Software Engineer at BYJU'S. experience at Swiggy. Behavioral signal is solid (55% response rate, 90 days notice)."
+    },
+    {
+      "candidate_id": "CAND_0078106",
+      "rank": 100,
+      "score": 0.4504,
+      "reasoning": "Strong depth in Time Series, OpenCV combined with 7.7 years as Senior Software Engineer at Wayne Enterprises. experience at Swiggy. Behavioral signal is solid (62% response rate, 60 days notice)."
+    }
+  ]
+}
