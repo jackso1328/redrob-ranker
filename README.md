@@ -1,3 +1,14 @@
+---
+title: Redrob AI Ranker
+emoji: 🚀
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+sdk_version: 4.36.0
+app_file: app.py
+pinned: false
+---
+
 # 🚀 Redrob AI Ranker 
 
 > **Hackathon Submission:** India Runs Data and AI Challenge  
