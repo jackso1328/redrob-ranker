@@ -15,7 +15,7 @@ primary_contact:
 # Code and reproducibility
 # ============================================================================
 github_repo: "https://github.com/jackso1328/redrob-ranker"
-sandbox_link: "N/A - Designed to run locally on CPU via rank.py"
+sandbox_link: "https://colab.research.google.com/drive/1g_WdYGCd6V9oYfKLOG18ZAixgScZB2az?usp=sharing"
 
 reproduce_command: "python rank.py --candidates candidates.jsonl --out submission.csv"
 
