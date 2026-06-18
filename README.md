@@ -1,6 +1,6 @@
 # 🚀 Redrob AI Ranker 
 
-> **Hackathon Submission:** India Runs Data and AI Challenge  
+> India Runs Data and AI Challenge  
 > **Goal:** Sift through 100,000 candidate profiles to find the absolute Top 100 engineers for a specialized AI/Search role.
 
 ![Architecture Setup](assets/architecture.png)
