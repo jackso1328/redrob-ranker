@@ -1,12 +1,12 @@
 # Core Data Processing
-pandas==2.1.4
-numpy==1.26.3
+pandas>=2.1.4
+numpy>=1.26.0
 
 # The AI Brain (Local Semantic Embeddings)
 sentence-transformers>=2.5.0
-scikit-learn==1.4.0
+scikit-learn>=1.4.0
 
 # Utilities
-pyyaml==6.0.1
-tqdm==4.66.1
+pyyaml>=6.0.0
+tqdm>=4.66.0
 gradio>=4.0.0
