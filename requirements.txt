@@ -5,6 +5,7 @@ numpy==1.26.3
 # The AI Brain (Local Semantic Embeddings)
 sentence-transformers>=2.5.0
 scikit-learn==1.4.0
+sentence_transformers
 
 # Utilities
 pyyaml==6.0.1
