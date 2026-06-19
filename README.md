@@ -100,9 +100,8 @@ redrob-ranker/
 
 ---
 
-## 🧠 The Secret Sauce (Why this works)
+## 🧠 The Secret Sauce
 
-The hackathon JD specifically asked for engineers who have built **Information Retrieval** and **Vector Search** systems from scratch, explicitly rejecting people who merely wrap LangChain APIs or whose primary background is Computer Vision.
 
 To achieve this without using heavy GPUs or slow LLM API calls, we implemented a custom weighting system in `src/quality_scorer.py`:
 - **Pre-LLM Multiplier:** Candidates with more months in "LangChain" than in "Elasticsearch/BM25" receive heavy penalties.
