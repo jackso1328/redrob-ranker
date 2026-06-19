@@ -36,7 +36,7 @@ Instead of relying on slow, expensive LLM calls for every candidate, this pipeli
    Place the massive `candidates.jsonl` file (from the hackathon data folder) directly into the root `redrob-ranker` directory. *(Note: This file is ignored by Git to save space).*
 
 3. **Set up the Virtual Environment:**
-   You must use Python 3.10 to avoid dependency conflicts.
+   You must use **Python 3.10** to avoid dependency conflicts.
    ```bash
    python -m venv venv310
    .\venv310\Scripts\activate  # On Windows
