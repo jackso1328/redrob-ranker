@@ -28,7 +28,7 @@ Instead of relying on slow, expensive LLM calls for every candidate, this pipeli
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/redrob-ranker.git
+   git clone https://github.com/jackso1328/redrob-ranker.git
    cd redrob-ranker
    ```
 
